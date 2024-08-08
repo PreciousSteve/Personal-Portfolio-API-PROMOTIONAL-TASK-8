@@ -2,4 +2,4 @@
 /venv
 /__pycache__
 preciousteve.db
-/__pycache__
+app/__pycache__
